@@ -1,0 +1,25 @@
+.header-top {
+    background-color: #0282f9;
+    color: white;
+    button {
+        color: white;
+    }
+}
+.header-bottom {
+    img {
+        max-width: 50px;
+    }
+    ul {
+        li {
+            padding: 0px 15px;
+            a {
+                display: inline-block;
+                text-decoration: none;
+                color: inherit;
+            }
+        }
+    }
+    input {
+        max-width: 120px;
+    }
+}

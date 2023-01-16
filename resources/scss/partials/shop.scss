@@ -1,0 +1,25 @@
+.shop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0282f9;
+
+    .shop-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 30px 15px;
+
+        div {
+            padding: 0px 5px;
+            a {
+                color: white;
+                text-decoration: none;
+            }
+        }
+        img {
+            height: 55px;
+            width: 40px;
+        }
+    }
+}
